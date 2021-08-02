@@ -1,0 +1,15 @@
+{
+	"components": 
+		{
+			"ISO": "Rhel7.5",
+			"Disk_path": "/home/shivam/Downloads/rhel-server-7.5-x86_64-dvd.iso",
+		        "Memory": "1024",
+			"CPUs": "1",
+		        "Storage": "10gb",
+			"Location": "https://archive.org/download/rhel-server-7.5-x86_64-dvd/rhel-server-7.5-x86_64-dvd.iso"
+			
+		}
+	
+}
+
+
